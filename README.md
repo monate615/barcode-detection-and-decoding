@@ -10,3 +10,5 @@ Barcode detection and decoding using openCV and Zbar.
 <img src="/imgs/result2.png" width="800px" height="450px"></br></br>
 Contribution: 2017-08-29 20:00
 
+Contribution: 2017-08-29 20:01
+
